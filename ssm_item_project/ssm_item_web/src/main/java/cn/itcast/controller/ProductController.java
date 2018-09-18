@@ -41,5 +41,9 @@ public class ProductController {
 
     public static void main(String[] args) {
         System.out.println("changed");
+        System.out.println("C 1st update");
+        System.out.println("C 2st update");
+        System.out.println("C 3rd update");
+
     }
 }
